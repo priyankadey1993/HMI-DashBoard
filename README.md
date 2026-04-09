@@ -1,2 +1,1 @@
-# HMI-DashBoard
-simple Hmi dashborad show anlvalue which is gnerated rendomly in the charts and table
+"# HMI Dashboard – A simple HMI dashboard that shows analog values randomly generated in charts and tables."
